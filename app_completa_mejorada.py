@@ -21,13 +21,7 @@ st.set_page_config(
 # Estilos simples (tarjetas y footer)
 st.markdown(
     """
-    <style>
-    .kpi-card {background: #ffffff; border-radius: 16px; padding: 18px; box-shadow: 0 8px 24px rgba(0,0,0,0.06);}
-    .soft {color:#6b7280; font-size: 13px}
-    footer {visibility: hidden}
-    .footer {position: fixed; left: 0; bottom: 0; width: 100%; text-align: center; padding: 6px 0; color:#6b7280; font-size:12px; background: rgba(255,255,255,0.85);}
-    .question {font-weight: 600; margin-top: 10px;}
-    </style>
+    
     """,
     unsafe_allow_html=True,
 )
@@ -94,10 +88,10 @@ maestro = st.sidebar.selectbox("👤 Selecciona tu nombre", lista_maestros)
 # Página de inicio
 # =============================
 if opcion == "🏠 Inicio":
-    st.image("imagen_inicio.png", width=250)
-    st.markdown("<h1 style='text-align:center; color:#1E3A8A;'>Evaluación Estudiantil</h1>", unsafe_allow_html=True)
-    st.markdown("<p style='text-align:center;'>Bienvenido al sistema de evaluación del Colegio Bautista Cristiano.</p>", unsafe_allow_html=True)
-    st.markdown("---")
+        st.image("imagen_inicio.png", width=250)
+        st.markdown("<h1 style='text-align:center; color:#1E3A8A;'>Evaluación Estudiantil</h1>", unsafe_allow_html=True)
+        st.markdown("<p style='text-align:center;'>Bienvenido al sistema de evaluación del Colegio Bautista Cristiano.</p>", unsafe_allow_html=True)
+        st.markdown("---")
 
 # =============================
 # Sección: Evaluar estudiantes
@@ -264,3 +258,27 @@ if opcion == "📚 Reportes generales por estudiante":
 
         matriz = df_est.groupby(["materia", "respuesta"]).size().unstack(fill_value=0)
         st.dataframe(matriz, use_container_width=True)
+
+
+st.markdown("""
+<style>
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 14px 0;
+    font-size: 17px;
+    color: #0F172A;
+    background-color: #F1F5F9;
+    box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+    font-family: 'Segoe UI', sans-serif;
+    z-index: 9999;
+}
+</style>
+<div class="footer">
+🧑‍💻 <b>Desarrollador por: Steven Polanco (IT support)</b>
+</div>
+""", unsafe_allow_html=True)
+
