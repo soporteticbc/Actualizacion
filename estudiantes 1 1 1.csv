@@ -1,0 +1,551 @@
+id,nombre,curso
+1," Auguiste Francisco, Aylah Lisse",Pre-Kinder
+2,"Ferreras Patrocino, Gabriel",Pre-Kinder
+3," Figueroa Lama, Vera Lucía",Pre-Kinder
+4," Fulcar da Cunha, Aram Nahúm ",Pre-Kinder
+5,"Medina Franjul, Vera",Pre-Kinder
+6," Méndez de los Santos, Claire",Pre-Kinder
+7," Peña Cedano, Gael Sebastián",Pre-Kinder
+8,"Pepén Torres, Bejamín",Pre-Kinder
+9," Reyes Guzmán, Vera Marcelle",Pre-Kinder
+10," Rodríguez Ferreira, Miranda",Pre-Kinder
+11,"Vasquez Solis, Mathías Alejandro",Pre-Kinder
+12," De Peña Peña, Marjorie Pilar ",Kinder
+13," Ferreras Patrocino, Gabrielys",Kinder
+14,"Fulcar Read, Sarah Esther",Kinder
+15," Guerrero Gutiérrez, Jasid Hilel",Kinder
+16," López Jiménez, Aimée Mercedes",Kinder
+17,"Martínez Milanese, Matías ",Kinder
+18,"Medina Arias, Josías Amaury",Kinder
+19," Mendoza Cerón, Ema Sofia ",Kinder
+20," Ortega Del Villar, Francia Margarita  ",Kinder
+21," Rivas Rivera, Dana ",Kinder
+22,"Rojas Peña, Dard Lewis ",Kinder
+23,"Soto Vargas, Esteban Daniel ",Kinder
+24," Vásquez Hidalgo, Alonso",Kinder
+25,"Féliz Santana, Álvaro Andrés ",PPA
+26," Fulcar da Cunha, Asha Nahir ",PPA
+27," Gerrero Gutiérrez, Jaim Halel",PPA
+28,"Lara Brea, Samuel Elías ",PPA
+29," Payano Ramírez, Denisse Aimee ",PPA
+30," Pepén Lantigua, Avril Alexandra ",PPA
+31,"Pimentel Lastra, Alannah Esther ",PPA
+32,"Quezada Montalvo, Keidy Lucía ",PPA
+33," Sánchez Abreu, Mateo Andrés ",PPA
+34,"Adón Zorrilla, Christian Elías ",PPB
+35," Alburquerque Polonio, Claudette Elizabeth ",PPB
+36,"Asenjo Rivera, Renata Sophía ",PPB
+37,"Auguiste Francisco, Adaiah Elisse ",PPB
+38," de Lara de Oliveira, Jacob Luís ",PPB
+39,"Gil Castillo, Daniela",PPB
+40,"Gil Sallent, Nicolas Alberto ",PPB
+41,"Hilario Sosa, Emma Sofía ",PPB
+42," Martínez Peniche, Matías ",PPB
+43," Parra Martínez, Oscar David ",PPB
+44," Acosta Troncoso, Willy Daniel- Nuevo (a) ",1AP
+45,"Cabrera Angeles, Charlotte ",1AP
+46,"Cáceres Emiliano, Cedric Darnell- Nuevo (a) ",1AP
+47,"González Peralta, Gabriela ",1AP
+48," Henríquez Arnó, Zoe Isabella",1AP
+49,"Jorge Méndez, Matías Zayd ",1AP
+50,"Lantigua Núñez, Gabriel Arturo ",1AP
+51,"Lebrón García, Camely Mariel ",1AP
+52," Montero Veloz, Farah ",1AP
+53,"Montero Zucco, Mila ",1AP
+54,"Moreno Reynoso, Adele ",1AP
+55," Olivero Mejía, Alex Javier ",1AP
+56,"Paden Pérez, Lara Eden ",1AP
+57," Quezada Molina, Joel Emilio ",1AP
+58,"Romero Ramírez, Emma Camila ",1AP
+59,"Thevenin Romano, Giulia Camila ",1AP
+60,"Vargas Abreu, Alonso Andrés ",1AP
+61," Alcántara Sánchez, Anajael ",1BP
+62," Amiama Quezada, Nicolás David ",1BP
+63," Andrade Vargas, José Leonel",1BP
+64,"Calcaño Marmolejos, Christian David ",1BP
+65," Camilo Peña, Rommel Thiago ",1BP
+66," De los Santos de Oleo, Dara Betelgeuse ",1BP
+67," De Paula Cordero, Briella",1BP
+68," Holguín Hernández, Elisabet Joy ",1BP
+69,"Johnson Hernández, José Alberto ",1BP
+70," Lantigua Sánchez, Marla Fernanda ",1BP
+71," López Genao, Grace ",1BP
+72," Maldonado Vásquez, Mía Amelia ",1BP
+73,"Morillo Gómez, Gabriela ",1BP
+74,"Portes Moni, Sebastián Rafael ",1BP
+75," Rodríguez Ferreira, Valeria Milagros ",1BP
+76," Vásquez Pimentel, Ava Marie ",1BP
+77,"Adón Zorrilla, Elizabeth Mariel ",2AP
+78,"Alcántara Sánchez, Abdías ",2AP
+79,"Almonte Terrazas, Jonathan David ",2AP
+80,"Calderón Quiroz, Valentina Nicolle ",2AP
+81,"Carrasco Pérez, Lía Esther",2AP
+82,"Castro Brito, Ismel ",2AP
+83," Cruz Mesa, Anel Marie",2AP
+84,"Cuevas Rivera, Loida Liz ",2AP
+85," de los Santos Morillo, Daniel ",2AP
+86," Gañán Batista, José Demetrio ",2AP
+87,"Liriano Rodríguez, Thiago Yasser ",2AP
+88," Pérez Luciano, Alonso Aurelio ",2AP
+89,"Piantini Sánchez, Daniel Alberto ",2AP
+90," Ramírez Féliz, Miranda Isabella ",2AP
+91," Saba Pozo, Naohmy ",2AP
+92," Santana Castillo, Noah ",2AP
+93," Taveras Corniel, Pedro Pablo ",2AP
+94,"Taveras De los Santos, Maia José ",2AP
+95,"Vásquez Pimentel, Tiago Ezequie",2AP
+96," Amiama Quezada, Matthew David ",2BP
+97,"Cadena Ozuna, Edgar Daniel ",2BP
+98," Ferrand Zarzuela, Paul Emilio ",2BP
+99," Gómez Guerrero, Zarah José ",2BP
+100," González Aponte, Emma Camila ",2BP
+101,"Guzman Ventura, Gia Celengy ",2BP
+102,"Henríquez Soto, Ana Paula ",2BP
+103," Jiménez Rodríguez, Karla Abigail ",2BP
+104,"Maisonet Corniel, Charlotte",2BP
+105," Matías Sánchez, Esteban David ",2BP
+106," Messina Nolasco, Gianluca ",2BP
+107," Peña Cedano, Thiago Esteban ",2BP
+108,"Polanco Pérez, Sara Stella ",2BP
+109," Rivas Rivera, Hannah ",2BP
+110," Rosado García, Isaac",2BP
+111," Sánchez Reynoso, Miranda Sophia ",2BP
+112," Santos Paulino, Lucía ",2BP
+113,"Zapata Medrano, Abigail",2BP
+114," Beriguet Herasme, Adhara Rubí ",3AP
+115," Cabral Fernández, Daniel Wilfredo ",3AP
+116," Cabrera Aquino, Lía Sofía ",3AP
+117,"Cordero Lebrón, Sophía ",3AP
+118,"De La Rosa Muñoz, Aminah ",3AP
+119,"Encarnación Mueses, Natanael ",3AP
+120," García Javier, Daniel Andrés ",3AP
+121,"García Suazo, Mía Isabella ",3AP
+122," Gutiérrez Nouel, Noah ",3AP
+123,"Johnson Hernández, Lizbeth Sofía ",3AP
+124," Leyba Mora, Rose Ivette ",3AP
+125," López Genao, David Mathew",3AP
+126," Maldonado Vásquez, Miranda ",3AP
+127,"Moreno Reynoso, Emma ",3AP
+128," Ortiz Guerrero, Jaime Alberto ",3AP
+129," Paden Pérez, Yari Anne ",3AP
+130," Portes Moni, Dante Maximiliano ",3AP
+131," Sánchez Hernández, Raybel ",3AP
+132,"Sánchez Pichardo, Gael Ernesto",3AP
+133,"Terrero Almonte, Laila",3AP
+134,"Brito Dinzey, Victoria Elisa ",3BP
+135," Cabral Guzmán, Joshua Rafael ",3BP
+136,"Charpantier Matos, Josué David ",3BP
+137," Familia Genao, Matías José ",3BP
+138," Figueroa Lama, Sara Alejandra ",3BP
+139,"Hernández Díaz, Lía Miranda ",3BP
+140,"Lantigua Ciriaco, María Alejandra ",3BP
+141," Maldonado Vásquez, Isaac ",3BP
+142,"Martínez Peniche, Liam Arturo ",3BP
+143,"Martínez Valerio, Daniel Eduardo",3BP
+144," Montero Núñez, Kered Isabella ",3BP
+145," Morillo Familia, Carlos Manuel",3BP
+146," Pascual Lai, Zoe Mabelle ",3BP
+147,"Payano Ramírez, Emma Magdiel ",3BP
+148," Pepén Torres, Samuel ",3BP
+149,"Quezada Molina, Joy Joelle ",3BP
+150," Sánchez Lebrón, Mateo ",3BP
+151,"Sosa Croisier, Esteban David ",3BP
+152," Soto Vargas, Evangeline Esther ",3BP
+153," Susaña Portuondo, Valeria ",3BP
+154,"Andrade Vargas, Camila",4AP
+155,"Areiza Johnson, Samantha ",4AP
+156," Contín Urquía, Gabriel",4AP
+157," Daneri Núñez, Caleb ",4AP
+158," Díaz Figuereo, Diego Isaac ",4AP
+159," Domínguez Martínez, Miranda ",4AP
+160," Durán González, Isabella",4AP
+161," Feliz Agüero, Elías David",4AP
+162," Fulcar Read, Lucas Noel ",4AP
+163," Gil Ortiz, Marjorie",4AP
+164," Henríquez Soto, Noah David ",4AP
+165,"Martínez Valerio, Amelia",4AP
+166,"Medina Franjul, Victoria ",4AP
+167,"Messina Brea, Noah Emilio ",4AP
+168,"Muñoz Javier, Camila Esther ",4AP
+169,"Peña Estrella, Christopher ",4AP
+170,"Pereyra Mejía, Esther ",4AP
+171," Pimentel Feliciano, David Yovanny ",4AP
+172," Pimentel Lastra, Pamela Nahomi ",4AP
+173," Ruíz Luciano, Robert Andrew",4AP
+174,"Caballero García, Andrea Sabina ",4BP
+175," Cabral Fernández, David Alexander ",4BP
+176," Calcaño Morillo, Amelia Marie ",4BP
+177,"De la Cruz Hilario, Abigaíl ",4BP
+178,"Dicén Valdera, Gonzalo ",4BP
+179," Espaillat Disla, Alonso ",4BP
+180," Estrella Vizcaíno, Ian Enrique ",4BP
+181," Genao Encarnación, Elías Alberto ",4BP
+182," Gómez Guerrero, Thomas Jesús ",4BP
+183,"Gómez Odreman, Mateo ",4BP
+184,"Luciano Lara, Mia Victoria",4BP
+185," Medina Arias, Alexander David ",4BP
+186," Mejía Díaz, Daniella ",4BP
+187,"Ortiz Guerrero, Renata Sofía ",4BP
+188," Peña Reyes, Ana Gabriela",4BP
+189," Perez Soto, Isabel Marie ",4BP
+190," Román Pérez, Santiago ",4BP
+191,"Saint-Hilaire Acosta, Valentina Pilar",4BP
+192,"Salazar Martínez, Keiry Marie",4BP
+193,"1. Alcántara Moreno, Josué Miguel ",5AP
+194,"2. Caballero García, Esther Julia ",5AP
+195,"3. Cabrera Blanco, César Arturo ",5AP
+196,"4. Colón Frances, Vivian Massiel ",5AP
+197,"5. Constanza Escotto, Elías Josué",5AP
+198,"6. Cuello Pichardo, Amy Priscilla ",5AP
+199,"7. Duarte Iñiguez, Mila Alexandra ",5AP
+200,"8. Féliz Taveras, John Carlos ",5AP
+201,"9. González Peralta, Raúl Emmanuel ",5AP
+202,"10. Luzón Castillo, Amanda Lismel",5AP
+203,"11. Nin Mejía, María Isabel ",5AP
+204,"12. Pacheco Koutsou, Matthew Radhamés ",5AP
+205,"13. Padrón Espaillat, Emma",5AP
+206,"14. Perdomo Helena, Daphne Zoe ",5AP
+207,"15. Quezada Montalvo, Rafael Andrés ",5AP
+208,"16. Ramírez Féliz, Aarón Eleazar ",5AP
+209,"17. Reyes Yentes, Emanuel José ",5AP
+210,"18. Rodríguez Estrella, Daniel ",5AP
+211,"19. Ruíz Luciano, Robert Matthews ",5AP
+212,"20. Salazar Martínez, Hery Alejandro ",5AP
+213,"21. Sánchez De León, Angélica ",5AP
+214,"22. Santos Arvelo, Thiago",5AP
+215,"1. Abreu Pieter, Josué Omar ",5BP
+216,"2. Abreu Ramírez, Rodrigo José ",5BP
+217,"3. Brito Dinzey, Ivanna Elisabeth ",5BP
+218,"4. Candelier Castillo, Luna Sofía ",5BP
+219,"5. Cordero Lebrón, Valeria ",5BP
+220,"6. de la Rosa Muñoz, Elyane ",5BP
+221,"7. De León Calletano, Kiara Sofía ",5BP
+223,"8. Díaz Báez, Dawel Elías ",5BP
+224,"9. Frías Santana, Ema Isabel ",5BP
+225,"10. Hernández Estrella, Perla Sophía ",5BP
+226,"11. Jorge Méndez, Lucas Farid ",5BP
+227,"12. Lara Brea, Sol Elisha ",5BP
+228,"13. Lebrón García, Gian Eduardo ",5BP
+229,"14. Matos Pérez, Adara Inés ",5BP
+230,"15. Medina Bernabé, Farah Milena ",5BP
+231,"16. Minaya Nova, Natalia Isabelle ",5BP
+232,"17. Pardilla Guerrero, Valentina María ",5BP
+233,"18. Peña Ruiz, Adrián Ernesto ",5BP
+234,"19. Pimentel Feliciano, Elías ",5BP
+235,"20. Ramírez Galván, Ericka Sabrina ",5BP
+236,"21. Román Rojas, Isabella ",5BP
+237,"22. Sánchez Abreu, Daniel Alejandro ",5BP
+238,"23. Santana Taveras, Luis Ernesto ",5BP
+239,"1. Aquino Tejada, Ana Paula ",6AP
+240,"2. Areiza Johnson, Maximiliano ",6AP
+241,"3. Bernardino Niebles, Maiah ",6AP
+242,"4. Cabral Guzmán, Leandro David ",6AP
+243,"5. Castro Brito, Adielsy ",6AP
+244,"6. García Javier, Daniella Marie ",6AP
+245,"7. González Aponte, Fernando Gabriel ",6AP
+246,"8. Guillermo Castillo, Sebastián Miguel ",6AP
+247,"9. Guzmán Meyreles, Marla Patricia ",6AP
+248,"10. López Batista, Jennifer ",6AP
+249,"11. Messina Brea, Zoe Isabella ",6AP
+250,"12. Olivero Mejía, César Daniel ",6AP
+251,"13. Pardilla Guerrero, Fabián Rafael ",6AP
+252,"14. Piantini Sánchez, David ",6AP
+253,"15. Reyes Romero, Alexander Gabriel ",6AP
+254,"16. Rivera Ramos, Michelle Aymee ",6AP
+255,"17. Rodríguez Estrella, Zoe ",6AP
+256,"18. Santos Arvelo, Sol ",6AP
+257,"19. Taveras Corniel, Pedro Julio ",6AP
+258,"20. Tineo Rodríguez, María José ",6AP
+259,"21. Veras Martínez, Joshua Nicolás",6AP
+260,"1. Abreu Rollins, William",6BP
+261,"2. Burgos Foster, Breydon Odalys ",6BP
+262,"3. Calcaño Morillo, Javier Alonso ",6BP
+263,"4. Casado Santiago, David Abraham ",6BP
+264,"5. Crespo González, Edwin Levi ",6BP
+265,"6. De la Rosa Valdez, Sebastián",6BP
+266,"7. Fernández Collado, Ivanna Adeline ",6BP
+267,"8. García González, Marcos Gael ",6BP
+268,"9. Guillermo Reyes, Ysmairy Verónica ",6BP
+269,"10. Jiménez Rivera, Gianmarco ",6BP
+270,"11. Lantigua Núñez, Maia Loriann ",6BP
+271,"12. Lantigua Sánchez, Miranda Lucía ",6BP
+272,"13. Lebron García, Hilary Marcelle ",6BP
+273,"14. Lerebours de León, Raquel Marie ",6BP
+274,"15. Luciano Lara, Justin Alejandro",6BP
+275,"16. Martínez Valerio, Sarah Emilia",6BP
+276,"17. Montero Zucco, Miranda ",6BP
+277,"18. Musa Castillo, Shantal Marie ",6BP
+278,"19. Sánchez Lora, Abraham Lorenzo ",6BP
+279,"20. Santos Paulino, Lucas ",6BP
+280,"21. Socías Gómez, Marcos Antonio",6BP
+281,"1. Cabral Corniel, Víctor José ",1AS
+282,"2. Camilo García, Nicolás ",1AS
+283,"3. Cruz Pujols, Emmanuel ",1AS
+284,"4. Daneri Núñez, Lucas ",1AS
+285,"5. Familia Genao, Sarah Abigail ",1AS
+286,"6. Francisco Madera, Micael David ",1AS
+287,"7. Gómez Guerrero, Maura Camil ",1AS
+288,"8. Hazim Peralta, Khory Kamila",1AS
+289,"9. Limardo Vásquez, Rodrigo José ",1AS
+290,"10. Liriano Paniagua, Reykel Noel ",1AS
+291,"11. López Rodríguez, Génesis ",1AS
+292,"12. Marchena Merette, Gael Josué ",1AS
+293,"13. Martínez Lachapel, Lucas Isaí ",1AS
+294,"14. Matías Sánchez, Sophía Eunice ",1AS
+295,"15. Moreno Reynoso, Owen ",1AS
+296,"16. Morillo Gómez, Camila ",1AS
+297,"17. Padrón Peláez, Sebastián ",1AS
+298,"18. Payano Franco, Frank Elías ",1AS
+299,"19. Quevedo Méndez, Gabriel Amin",1AS
+300,"20. Rivera Mejía, Jeremi Manasés ",1AS
+301,"21. Sánchez de León, Angel Joel ",1AS
+302,"22. Sánchez Lluberes, Francisco Gabriel ",1AS
+303,"23. Sterling Pantaleón, Enrique",1AS
+304,"24. Terrero Almonte, Maiah ",1AS
+305,"25. Wanderpool Roa, Victoria",1AS
+306,"1. Alcántara Moreno, Samuel David ",1BS
+307,"2. Bidó Ramírez, María José ",1BS
+308,"3. Billini Carrasco, Esther Marie ",1BS
+309,"4. Camilo García, Marcela ",1BS
+310,"5. Constanza Escotto, Keren Sofía",1BS
+311,"6. Cuello Carrasco, Noel Andrés ",1BS
+312,"7. Cuello Pichardo, Kemuel Andrés ",1BS
+313,"8. Disla Martínez, Miranda Sophia",1BS
+314,"9. Disla Mateo, Daliam Horeb ",1BS
+315,"10. Estrella Vizcaíno, Liana ",1BS
+316,"11. Garcia Hilario, Dylan Gabriel ",1BS
+317,"12. Gil Madariaga, Isaac Adrián",1BS
+318,"13. Henríquez Arnó, Sebastián",1BS
+319,"14. Lara Pereyra, Mario Alejandro ",1BS
+320,"15. Mariano Vásquez, Abel de Jesús ",1BS
+321,"16. Messina Nolasco, Sophía Nicolette ",1BS
+322,"17. Montero Núñez, Derek Isaac ",1BS
+323,"18. Muñoz Javier, Samuel David ",1BS
+324,"19. Peralta Guerrero, Lía Desiree ",1BS
+325,"20. Perez Soto, Bella Marie ",1BS
+326,"21. Ramos Phipps, Christopher",1BS
+327,"22. Reyes Yentes, José Alejandro ",1BS
+328,"23. Saba Pozo, Noah ",1BS
+329,"24. Santana Taveras, Luis Emilio ",1BS
+330,"25. Vicente Madera, Edwin Isaac",1BS
+331,"1. Abreu Ramírez, Joan Nicolás ",2AS
+332,"2. Bueno Méndez, Isaac Gadiel ",2AS
+333,"3. Calcaño Marmolejos, Christ Janser ",2AS
+334,"4. Calderón Quiroz, Diego Alejandro ",2AS
+335,"5. Cedano Rivera, Eva Amelia  ",2AS
+336,"6. de Paula Cordero, Hektor Emil ",2AS
+337,"7. Díaz Báez, Moisés Alberto ",2AS
+338,"8. Frías Espinal, Gía ",2AS
+339,"9. Garcia Hilario, Zoe Gabriela ",2AS
+340,"10. Inoa Leger, Valentina ",2AS
+341,"11. Lara Peña, Lis Irina ",2AS
+342,"12. Lora De La Rosa, Amelia Marie ",2AS
+343,"13. Marrero Shum, Joshua ",2AS
+344,"14. Martínez Vargas, Steven Yoldanis ",2AS
+345,"15. Metz Montero, Omar Sebastian ",2AS
+346,"16. Nivar González, Zoe  Marie ",2AS
+347,"17. Peña Reyes, María Camila",2AS
+348,"18. Ramírez Nolasco, Sofía  ",2AS
+349,"19. Rodríguez Estrella, Lucas ",2AS
+350,"20. Rojas Rosa, Diego ",2AS
+351,"21. Sosa Croisier, Vivian Marie ",2AS
+352,"22. Suero de los Santos, Félix Rainiel",2AS
+353,"23. Vargas Nova, Arlette Alexandra ",2AS
+354,"24. Wandelpool Roa, Sophia Valentina ",2AS
+355,"1. Amiama Quezada, Ana Sophía ",2BS
+356,"2. Arbaje Howley, Shadday Yamilet ",2BS
+357,"3. Caraballo Féliz, José Rafael ",2BS
+358,"4. Carrasco Inoa, Zoe Patricia ",2BS
+359,"5. Casado Santiago, Samuel Abraham ",2BS
+360,"6. Crespo González, María Belén ",2BS
+361,"7. Espinosa Rodríguez, Oliver ",2BS
+362,"8. Estrella Rodríguez, Alejandro David ",2BS
+363,"9. Frías Santana, Jacob Daniel ",2BS
+364,"10. Galván Rosso, Ashley Noemí ",2BS
+365,"11. García Bruno, Chanell ",2BS
+366,"12. García Suazo, Elías José ",2BS
+367,"13. González Toribio, Clara Elizabet ",2BS
+368,"14. Guzmán de Jesús, Sebastián ",2BS
+369,"15. Hernández Estrella, Dana Priscila ",2BS
+370,"16. Lara Peña, Noa Irina ",2BS
+371,"17. López Núñez, Irene Rashell ",2BS
+372,"18. Mesa Rojas, Carlos Eduardo ",2BS
+373,"19. Montilla Beras, Miguel Eduardo ",2BS
+374,"20. Mueses Frías, Amanda Giselle ",2BS
+375,"21. Nanita Guerrero, Emmanuel ",2BS
+376,"22. Ramírez Galván, Daniel Esteban ",2BS
+377,"23. Rodríguez Rojas, Sahira Rocío ",2BS
+378,"24. Román Pérez, Lucas ",2BS
+379,"25. Santiago Gómez, Rebeca ",2BS
+380,"26. Soto de Peña, Adrián Rafael ",2BS
+381,"1. Abreu Pieter, Emmanuel Omar ",3AS
+382,"2. Auguiste Francisco, Jedidah Belisse ",3AS
+383,"3. Carrión Lochard, Jhonasky Leonela ",3AS
+384,"4. De los Santos Arias, María Paula ",3AS
+385,"5. De los Santos Matos, Gabriel Rasheed ",3AS
+386,"6. Díaz Marzán, Camila Isabella ",3AS
+387,"7. Féliz Taveras, Joan Marcus ",3AS
+388,"8. Ferreras María, Habbid Esther ",3AS
+389,"9. López Reyes, Gariel ",3AS
+390,"10. Luciano Ventura, Christopher Derek ",3AS
+391,"11. Martínez Ramos, Sara Abigaíl ",3AS
+392,"12. Mejía De León, Fernando Fitzgerald ",3AS
+393,"13. Minaya Nova, Sarah Isabelle ",3AS
+394,"14. Molina Mercedes, Pedro Moisés ",3AS
+395,"15. Morillo Olivero, Jesús Alberto",3AS
+396,"16. Perdomo Helena, Amaury Isaac ",3AS
+397,"17. Puig Familia, Lía Manuela ",3AS
+398,"18. Rodríguez de los Santos, Miguel Ángel ",3AS
+399,"19. Sánchez Reynoso, Miah Isabella ",3AS
+400,"20. Santana Chalas, Carlos Javier ",3AS
+401,"21. Tejeda Méndez, Ana Isabel ",3AS
+402,"22. Tempestti Cabrera, Jean Carlos",3AS
+403,"1. Bournigal Rodríguez, Roger Luis André ",3BS
+404,"2. Burgos Foster, Brandon Odalys ",3BS
+405,"3. Cabrera Blanco, Amanda Andrea ",3BS
+406,"4. Cartagena Cornielle, Jean Paul ",3BS
+407,"5. Collado Llinás, Daniel Eduardo ",3BS
+408,"6. Damián Cruceta, Freddy Eduardo ",3BS
+409,"7. Disla Toledo, Zoe Aimé ",3BS
+410,"8. Domínguez Martínez, Omar Eduardo ",3BS
+411,"9. Féliz Abreu, Yoelfi Israel ",3BS
+412,"10. García Pérez, Lía Isabella ",3BS
+413,"11. Herrera Castañeda, Luis Rafael ",3BS
+414,"12. López Rodríguez, Emilio Nicolás ",3BS
+415,"13. Martínez Lachapel, Samuel Eduardo ",3BS
+416,"14. Mendoza Cerón, Amalia Mercedes ",3BS
+417,"15. Padrón Peláez, Jorge Lorenzo ",3BS
+418,"16. Ramírez Mateo, Sarah Camila ",3BS
+419,"17. Ramírez Suero, Aiser Jadiel ",3BS
+420,"18. Reyes Fernández, Yody Moisés ",3BS
+421,"19. Reyes Minaya, Elías Gabriel ",3BS
+422,"20. Rodríguez Lorenzo, Jacob ",3BS
+423,"21. Roque Romano, Joel Alexis ",3BS
+424,"22. Sánchez Lora, Valeria ",3BS
+425,"23. Sosa Orozco, Jesús Adrián ",3BS
+426,"24. Vicioso Soto, Camila ",3BS
+427,"25. Wandelpool Reynoso, Brian Samuel ",3BS
+428,"1. Arias Gómez, Noel Sebastián ",4AS
+429,"2. Báez Jiménez, Sebastián ",4AS
+430,"3. Caballero García, Nelson Antonio  ",4AS
+431,"4. Cadena Ozuna, Margaret Ayleen  ",4AS
+432,"5. Colón Mojica, Mayrham Kamila  ",4AS
+433,"6. Dicén Valdera, Marcela ",4AS
+434,"7. Encarnación Martínez, Isaac Damián  ",4AS
+435,"8. García Javier, Esther Marie ",4AS
+436,"9. González Martín, Sarah Carolina  ",4AS
+437,"10. González Toribio, Eliezer ",4AS
+438,"11. Guzmán Meyreles, Daniel de Jesús  ",4AS
+439,"12. Lora de La Rosa, Armando Elías ",4AS
+440,"13. Marrero Shum, Ronald ",4AS
+441,"14. Montero Marte, José Javier ",4AS
+442,"15. Morel Rodríguez, Zoe Maitté  ",4AS
+443,"16. Morillo Olivero, Camila Paola",4AS
+444,"17. Nanita Guerrero, Lisa Linda ",4AS
+445,"18. Peña Reyes, Oscar Leonardo",4AS
+446,"19. Pérez Peralta, Nathan Caleb ",4AS
+447,"20. Polanco Pimentel, Mía Isabela ",4AS
+448,"21. Reyes Romero, Karla Michelle  ",4AS
+449,"22. Reyes Yentes, Karla Beatriz  ",4AS
+450,"23. Rivera Mejía, Yadelín Jasmín ",4AS
+451,"24. Sánchez Santos, Eric Samir ",4AS
+452,"25. Veloz Pappaterra, Amy Laura ",4AS
+453,"1. Acevedo Matos, Isabela ",4BS
+454,"2. Báez Ferreira, Sebastián ",4BS
+455,"3. Belén Morel, Elián Guillermo ",4BS
+456,"4. Bernardino Niebles, Natasha ",4BS
+457,"5. Calderón Quiroz, Manuel Eduardo  ",4BS
+458,"6. Cedeño González, Diego Manuel ",4BS
+459,"7. Cruz Pujols, Rachell ",4BS
+460,"8. Cuello Carrasco, Noely ",4BS
+461,"9. Durán González, Gabriela ",4BS
+462,"10. Guzmán De Jesús, Miguel Alejandro  ",4BS
+463,"11. Hernández Henri, Lucas Sebastián ",4BS
+464,"12. Jiménez Adames, Ángel Junior  ",4BS
+465,"13. Matos Pérez, Habana ",4BS
+466,"14. Mercedes Vallejo, Joaquín Gabriel ",4BS
+467,"15. Musa Castillo, Pedro Emil  ",4BS
+468,"16. Nadal Medrano, Benjamín ",4BS
+469,"17. Patiño Martínez, Sabrina Amelia ",4BS
+470,"18. Rodríguez Rivas, Micaela ",4BS
+471,"19. Russo Martínez, Juan Carlos       ",4BS
+472,"20. Tavárez Bernard, Carlos Manuel  ",4BS
+473,"21. Vicente Madera, Maryam Esther",4BS
+474,"1. Acevedo Pérez, Rosa Haydee ",5AS
+475,"2. Aquino Tejada, Nicole Marie ",5AS
+476,"3. Carrasco Inoa, Amaya Patricia ",5AS
+477,"5. Disla Santana, Emely Carolina ",5AS
+478,"6. Disla Toledo, Alexander Manuel ",5AS
+479,"7. Estévez Lugo, Juan Sebastián  ",5AS
+480,"8. Familia Genao, Isa Daniella ",5AS
+481,"9. Féliz Féliz, Alan Yoel ",5AS
+482,"10. Inoa López, Febe Abigail  ",5AS
+483,"11. Payano Franco, Jean Marco ",5AS
+484,"12. Pérez Luciano, Gael Aurelio ",5AS
+485,"13. Pérez Melo, José Altagracia ",5AS
+486,"14. Ricardo Lora, Edwin Alejandro  ",5AS
+487,"15. Rivera Vargas, Aishley Pamela ",5AS
+488,"16. Rivera Vargas, Chasty Paulette ",5AS
+489,"17. Santana Chalas, Camila ",5AS
+490,"18. Soto De Peña, Abril ",5AS
+491,"19. Tejeda Santana, Lia Daniela ",5AS
+492,"20. Torres Martínez, María Valentina ",5AS
+493,"21. Vargas Nova, Desirette Alessandra ",5AS
+494,"22. Wandelpool Reynoso, Kenneth David ",5AS
+495,"1. Alonzo Mesa, Alana Marie ",5BS
+496,"2. Arbaje Howley, Alía Zahira ",5BS
+497,"3. Báez Ditrén, Diego Ignacio ",5BS
+498,"4. Burgos Baldera, Yamile Madeline ",5BS
+499,"5. Burgos Foster, Bradly Odalys ",5BS
+500,"6. Durán De Los Santos, Isabella ",5BS
+501,"7. Encarnación Valdez, Luis Miguel ",5BS
+502,"8. Espinosa Rodríguez, Valentina ",5BS
+503,"9. Féliz Féliz, Dilan Antonio ",5BS
+504,"10. Jiménez Gabot, Danny Joel ",5BS
+505,"11. Marchena Merette, Ivanka Sophía ",5BS
+506,"12. Martínez Ramos, Pedro Ismael ",5BS
+507,"13. Meléndez Saviñón, Gabriel Eduardo ",5BS
+508,"14. Mesa Rojas, Elaine Esmeralda ",5BS
+509,"15. Pascual Lai, Alan Zamir ",5BS
+510,"16. Pimentel Feliciano, Josué ",5BS
+511,"17. Rodríguez Monegro, Ezequiel ",5BS
+512,"18. Sánchez de Óleo, Ana Karina ",5BS
+513,"19. Suberví Matos, Felipe Antonio  ",5BS
+514,"20. Suero de los Santos, Felix Emanuel ",5BS
+515,"21. Ventura Nolasco, Monserrat Lizbeth ",5BS
+516,"22. Del Cid Cabrera, Victoria Miranda ",5BS
+517,"1. De los Santos López, María Victoria ",6AS
+518,"2. Del Rosario Morillo, Enyel Daniel ",6AS
+519,"3. Fernández Mateo, Sara Patricia ",6AS
+520,"4. García Bruno, Daisha Camila ",6AS
+521,"5. Gómez Gómez, Diego José ",6AS
+522,"6. Gómez Odreman, Marcos Gabriel ",6AS
+523,"7. Guzmán Pérez, Paula Carolina ",6AS
+524,"8. Mueses Frías, Montserrat Isabella ",6AS
+525,"9. Nadal Medrano, Liz Marie ",6AS
+526,"10. Nicasio Torres, Katheryne Marie  ",6AS
+527,"11. Paulino Gómez, Sara Gabriela ",6AS
+528,"12. Ramírez Suero, Liz Auri  ",6AS
+529,"13. Rodríguez Rivas, Camila ",6AS
+530,"14. Suero de los Santos, Adelaida Margarita ",6AS
+531,"15. Troche Castillo, Sebastián Ulises ",6AS
+532,"16. Utate Vásquez, Joan Manuel ",6AS
+533,"1. Acevedo Pérez, Grace Eunice ",6BS
+534,"2. Brito Dinzey, Dayirah Victoria  ",6BS
+535,"3. Cabral Corniel, Yaritza Marie ",6BS
+536,"4. Cabral Rivera, Claudia ",6BS
+537,"5. Cruz Peña, Lisbeth Marie ",6BS
+538,"6. Espinal Ortiz, Ana Isabella  ",6BS
+539,"7. Fernández Mateo, Javier José ",6BS
+540,"8. García Suazo, Julio David ",6BS
+541,"9. Grullón Brito, Aram ",6BS
+542,"10. Hassan Victoria, Samirah ",6BS
+543,"11. Herrera Alcántara, Gustavo Adolfo ",6BS
+544,"12. Martínez Leyba, Abigail Rachel ",6BS
+545,"13. Pérez Peralta, Natalia Vicel  ",6BS
+546,"14. Rojas Jiménez, David Alberto ",6BS
+547,"15. Sánchez Soto, Diana Estela ",6BS
+548,"16. Tavárez Ramírez, Diego ",6BS
+549,"17. Tempestti Cabrera, Carlos Rubén ",6BS
+550,"18. Vargas Pérez, Enmanuel Eugenio ",6BS
+551,"19. Vásquez Altagracia, Lucy Margarita",6BS
